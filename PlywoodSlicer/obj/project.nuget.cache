@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eYlO7in4CaN6vVSgzSQdLvjhs0ebrPfzJb78JIFyLMtoL8Xd4GW8JLxhnv+K9S3CBteFpnTSJe6TH9iZbJXaiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marc\\dev\\PlywoodSlicing\\PlywoodSlicer\\PlywoodSlicer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Marc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
