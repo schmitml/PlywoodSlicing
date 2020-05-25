@@ -6,10 +6,6 @@ namespace PlywoodSlicer.Tests
     public class RectangleTests
     {
         private IShape sut;
-        public RectangleTests()
-        {
-
-        }
 
         [SetUp]
         public void Setup()
@@ -24,6 +20,16 @@ namespace PlywoodSlicer.Tests
 
             Assert.AreEqual(10, sut.Width);
             Assert.AreEqual(15, sut.Height);
+        }
+
+        [Test]
+        public void EmptyRectangle_NoArea(){
+            sut = new Rectangle(0, 0);
+
+            Assert.AreEqual(0, sut.Width);
+            Assert.AreEqual(0, sut.Height);
+            
+            Assert.AreEqual(0, sut.Area());
         }
 
         [Test]

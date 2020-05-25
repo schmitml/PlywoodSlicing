@@ -13,7 +13,8 @@ namespace PlywoodSlicer
             Height = height;
         }
 
-        public int Area(){
+        public int Area()
+        {
             return Height * Width;
         }
     }
