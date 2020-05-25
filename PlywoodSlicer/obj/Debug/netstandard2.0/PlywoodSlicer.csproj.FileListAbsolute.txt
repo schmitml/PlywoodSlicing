@@ -1,0 +1,9 @@
+C:\Users\Marc\dev\PlywoodSlicing\PlywoodSlicer\bin\Debug\netstandard2.0\PlywoodSlicer.deps.json
+C:\Users\Marc\dev\PlywoodSlicing\PlywoodSlicer\bin\Debug\netstandard2.0\PlywoodSlicer.dll
+C:\Users\Marc\dev\PlywoodSlicing\PlywoodSlicer\bin\Debug\netstandard2.0\PlywoodSlicer.pdb
+C:\Users\Marc\dev\PlywoodSlicing\PlywoodSlicer\obj\Debug\netstandard2.0\PlywoodSlicer.csprojAssemblyReference.cache
+C:\Users\Marc\dev\PlywoodSlicing\PlywoodSlicer\obj\Debug\netstandard2.0\PlywoodSlicer.AssemblyInfoInputs.cache
+C:\Users\Marc\dev\PlywoodSlicing\PlywoodSlicer\obj\Debug\netstandard2.0\PlywoodSlicer.AssemblyInfo.cs
+C:\Users\Marc\dev\PlywoodSlicing\PlywoodSlicer\obj\Debug\netstandard2.0\PlywoodSlicer.csproj.CoreCompileInputs.cache
+C:\Users\Marc\dev\PlywoodSlicing\PlywoodSlicer\obj\Debug\netstandard2.0\PlywoodSlicer.dll
+C:\Users\Marc\dev\PlywoodSlicing\PlywoodSlicer\obj\Debug\netstandard2.0\PlywoodSlicer.pdb
